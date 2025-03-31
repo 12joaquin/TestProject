@@ -1,0 +1,18 @@
+# Created at 2025-03-31T22:39:37.922
+31/03/2025 10:39:37.919 - [INFO] - +---------------------------------+
+
+# Created at 2025-03-31T22:39:37.923
+31/03/2025 10:39:37.920 - [INFO] - | JoularJX Agent Version 3.0.1    |
+
+# Created at 2025-03-31T22:39:37.923
+31/03/2025 10:39:37.920 - [INFO] - +---------------------------------+
+
+# Created at 2025-03-31T22:39:37.949
+31/03/2025 10:39:37.948 - [INFO] - Results will be stored in joularjx-result/8384-1743453577945/
+
+# Created at 2025-03-31T22:39:37.964
+31/03/2025 10:39:37.963 - [INFO] - Initializing for platform: 'windows 11' running on architecture: 'amd64'
+
+# Created at 2025-03-31T22:39:37.966
+31/03/2025 10:39:37.965 - [SEVERE] - Can't start because of missing power monitor path. Set it in config.properties under the 'powermonitor-path' key.
+

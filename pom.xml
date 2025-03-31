@@ -42,7 +42,7 @@
             <version>2.22.2</version>
             <configuration>
                 <!-- Adjust the path to match your actual jar name and location -->
-                <argLine>-javaagent:${project.basedir}/lib/joularjx-3.0.1.jar</argLine>
+                <argLine>-javaagent:${project.basedir}/lib/joularjx-3.0.1.jar -Djoularjx.config="C:\Users\joaqu\OneDrive\Escritorio\SustainableSE\2assignment\CS4575_project_2\config.properties"</argLine>
             </configuration>
         </plugin>
         <plugin>
